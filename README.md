@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abrar-ul-farhan-Mohammed
 - 👀 I’m interested in Analytics, open source software development and machine learning
 - 🌱 I’m currently learning Java and Docker
-- 💞️ I’m looking to collaborate on Android/IOS projects, innovative/impactful ML projects.
+- 💞️ I’m looking to collaborate on Android/iOS projects, innovative/impactful ML projects.
 - 📫 How to reach me Amohammed74@gatech.edu
 
 <!---
